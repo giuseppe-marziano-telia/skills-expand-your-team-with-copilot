@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Unleash your inner otaku! Dive into epic battles, heartwarming friendships, and mind-bending plot twists from the greatest manga series. Whether you're team shonen action or slice-of-life feels, join fellow manga enthusiasts to discuss, debate, and discover new favorites!",
+        "schedule": "Tuesdays, 5:00 PM - 6:30 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "17:00",
+            "end_time": "18:30"
+        },
+        "max_participants": 25,
+        "participants": []
     }
 }
 
